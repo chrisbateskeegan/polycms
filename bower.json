@@ -1,5 +1,5 @@
 {
-  "name": "SimpleCMS",
+  "name": "PolyCMS",
   "description": "",
   "homepage": "",
   "keywords": [
@@ -9,6 +9,6 @@
   "dependencies": {
     "iron-elements": "PolymerElements/iron-elements#^1.0.0",
     "paper-elements": "PolymerElements/paper-elements#^1.0.1",
-    "mark-down": "mark-down#^1.0.0"
+    "mark-down": "robdodson/mark-down#^1.0.0"
   }
 }
